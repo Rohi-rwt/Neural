@@ -1,0 +1,1171 @@
+2026-06-29 10:12:21 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:12:24 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 10:13:42 [[31merror[39m]: Error: Unknown authentication strategy "google"
+    at attempt (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:193:39)
+    at authenticate (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+2026-06-29 10:13:46 [[31merror[39m]: Error: Unknown authentication strategy "google"
+    at attempt (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:193:39)
+    at authenticate (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+2026-06-29 10:15:25 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:15:26 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:15:51 [[31merror[39m]: Error: Unknown authentication strategy "google"
+    at attempt (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:193:39)
+    at authenticate (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+2026-06-29 10:18:07 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:18:08 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-06-29 10:18:16 [[31merror[39m]: Error: Unknown authentication strategy "google"
+    at attempt (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:193:39)
+    at authenticate (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+2026-06-29 10:19:50 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:19:51 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:20:04 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:20:05 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:20:43 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:20:44 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 10:21:17 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:21:18 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 10:21:32 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:21:33 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 10:26:08 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:26:09 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-06-29 10:26:16 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:16 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:16 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:16 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:16 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:17 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:17 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:17 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:18 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:18 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:19 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:19 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:20 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:20 [[32minfo[39m]: Email sent to rohiirwt108@gmail.com
+2026-06-29 10:26:20 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:21 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:22 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:23 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:24 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:24 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:25 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:26 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:28 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:29 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:30 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:31 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:32 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:34 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:35 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:36 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:38 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:39 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:41 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:42 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:44 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:46 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:26:48 [[33mwarn[39m]: Redis error (non-fatal):
+2026-06-29 10:30:39 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:30:39 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:31:47 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:31:48 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 10:32:13 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'set')
+    at exports.login (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\authController.js:119:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-29 10:32:13 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'set')
+    at exports.login (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\authController.js:119:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-29 10:35:16 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:35:17 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:35:23 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+2026-06-29 10:35:24 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+2026-06-29 10:35:26 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:35:27 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:35:30 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:35:36 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:37:15 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:18 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:49:19 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:49:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 10:49:30 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 10:49:31 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:32 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:33 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:40 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 10:49:51 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:49:51 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:51:37 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:51:38 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 10:51:53 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 10:51:54 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-06-29 11:00:09 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 11:00:10 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-06-29 11:01:12 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 11:01:13 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 11:01:25 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 11:01:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:01:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:01:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 11:01:30 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 11:01:31 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 11:01:36 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.protect (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:22:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:328:13)
+2026-06-29 11:07:16 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 11:07:17 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-06-29 11:16:38 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 11:16:38 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-06-29 11:17:26 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 11:17:27 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 11:24:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:24:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:24:35 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:24:36 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:24:40 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:24:41 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:25:04 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:25:05 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:26:57 [[32minfo[39m]: MongoDB reconnected.
+2026-06-29 11:26:57 [[32minfo[39m]: MongoDB reconnected.
+2026-06-29 11:29:48 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-29 11:29:48 [[32minfo[39m]: MongoDB reconnected.
+2026-06-29 11:32:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:32:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:33:36 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:33:37 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:35:12 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:35:13 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 11:35:27 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 21:26:02 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-06-29 21:26:04 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-06-29 21:26:33 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:34 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:39 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:40 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:45 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:46 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:49 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:50 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:52 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:53 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:56 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:57 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:26:59 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:27:00 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:27:01 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:27:02 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:27:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:27:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:22 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:24 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:25 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:26 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:28 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:29 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:30 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:31 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:32 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:29:33 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:34:45 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:34:46 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:35:40 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 21:35:41 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-06-29 22:21:19 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-29 22:24:20 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 00:47:03 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 00:47:07 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 00:51:45 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 00:51:49 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 00:54:03 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 00:54:13 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 01:34:56 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 01:34:57 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 02:16:30 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 02:16:32 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 02:18:54 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 08:39:39 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 08:39:50 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 12:14:32 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 12:43:38 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 12:44:23 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 12:44:34 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 14:20:43 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 14:20:43 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 14:26:42 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 14:26:42 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 14:55:49 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 14:55:49 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 21:52:52 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 21:52:52 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 22:23:40 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 22:23:48 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 22:39:27 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 22:39:39 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 22:41:12 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 22:41:23 [[32minfo[39m]: MongoDB reconnected.
+2026-06-30 22:42:07 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-06-30 22:42:18 [[32minfo[39m]: MongoDB reconnected.
+2026-07-01 01:04:16 [[32minfo[39m]: MongoDB reconnected.
+2026-07-01 22:20:34 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-07-01 22:20:47 [[32minfo[39m]: MongoDB reconnected.
+2026-07-09 17:29:29 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:29:29 [[33mwarn[39m]: MongoDB disconnected. Attempting reconnect...
+2026-07-09 17:30:12 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:30:15 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-07-09 17:45:31 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:45:32 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 17:46:01 [[32minfo[39m]: Email sent to rohiirwt08@gmail.com
+2026-07-09 17:46:10 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 17:46:11 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 17:48:35 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 17:48:36 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 17:48:39 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 17:48:40 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:23:32)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 17:51:41 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:51:42 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 17:52:01 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'set')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:63:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-07-09 17:52:02 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'set')
+    at exports.getProblems (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\controllers\problemController.js:63:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-07-09 17:52:55 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:52:56 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 17:56:50 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:56:51 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 17:57:11 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 17:57:12 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-07-09 18:03:32 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:03:33 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 18:05:44 [[32minfo[39m]: Connected to MongoDB for seeding
+2026-07-09 18:05:44 [[32minfo[39m]: Cleared existing data
+2026-07-09 18:05:44 [[31merror[39m]: MongoBulkWriteError: E11000 duplicate key error collection: Neural.problems index: slug_1 dup key: { slug: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:804:19)
+    at executeCommands (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:346:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:790:24
+    at async MongoClient.withSession (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\mongo_client.js:477:20)
+    at async OrderedBulkOperation.execute (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:789:20)
+    at async Collection.bulkWrite (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\collection.js:224:16)
+    at async Collection.insertMany (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\collection.js:171:25)
+2026-07-09 18:06:03 [[32minfo[39m]: Connected to MongoDB for seeding
+2026-07-09 18:06:03 [[32minfo[39m]: Cleared existing data
+2026-07-09 18:06:03 [[31merror[39m]: MongoBulkWriteError: E11000 duplicate key error collection: Neural.problems index: slug_1 dup key: { slug: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:804:19)
+    at executeCommands (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:346:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:790:24
+    at async MongoClient.withSession (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\mongo_client.js:477:20)
+    at async OrderedBulkOperation.execute (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\bulk\common.js:789:20)
+    at async Collection.bulkWrite (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\collection.js:224:16)
+    at async Collection.insertMany (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\mongodb\lib\collection.js:171:25)
+2026-07-09 18:11:38 [[32minfo[39m]: Connected to MongoDB for seeding
+2026-07-09 18:11:38 [[32minfo[39m]: Cleared existing data
+2026-07-09 18:11:38 [[32minfo[39m]: ✅ Inserted 8 problems
+2026-07-09 18:11:39 [[32minfo[39m]: ✅ Inserted 3 tests
+2026-07-09 18:12:06 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:12:07 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-07-09 18:19:33 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:19:34 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 18:20:47 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:20:48 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-07-09 18:21:51 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:21:52 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-02.x1dzqau.mongodb.net
+2026-07-09 18:24:08 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:24:09 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 18:24:26 [[32minfo[39m]: Connected to MongoDB for seeding
+2026-07-09 18:24:26 [[32minfo[39m]: Cleared existing data
+2026-07-09 18:24:27 [[32minfo[39m]: ✅ Inserted 14 problems
+2026-07-09 18:24:27 [[32minfo[39m]: ✅ Inserted 3 tests
+2026-07-09 18:24:38 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:24:39 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 18:35:53 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 18:35:54 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 18:36:00 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 18:36:01 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 18:40:49 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 18:40:50 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 18:45:12 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 18:45:13 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-00.x1dzqau.mongodb.net
+2026-07-09 19:19:16 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 19:19:18 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 19:32:42 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 19:32:43 [[31merror[39m]: TypeError: Cannot read properties of undefined (reading 'get')
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\routes\leaderboard.js:12:32
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at exports.optionalAuth (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\src\middleware\auth.js:58:5)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+2026-07-09 19:33:41 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 19:33:41 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
+2026-07-09 19:33:49 [[31merror[39m]: Error: Unknown authentication strategy "google"
+    at attempt (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:193:39)
+    at authenticate (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\sunit\Downloads\neuralpath-updated\neuralpath\backend\node_modules\express\lib\router\index.js:175:3)
+2026-07-09 19:37:07 [[32minfo[39m]: 🚀 NeuralPath server running on port 5000 in development mode
+2026-07-09 19:37:08 [[32minfo[39m]: ✅ MongoDB connected: ac-5qpbhir-shard-00-01.x1dzqau.mongodb.net
