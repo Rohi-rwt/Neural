@@ -61,7 +61,7 @@ export default function Dashboard() {
       {/* Main grid */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
         {/* Daily Challenge */}
-         <div className="flex flex-col sm:flex-row gap-2">
+         <div className="flex flex-col  gap-2">
           <div className="section-title text-base">🎯 Daily Challenge</div>
           <div className="bg-surface3 border border-surface rounded-xl p-4 mb-4">
             <div className="flex items-center justify-between mb-2">
