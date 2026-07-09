@@ -15,9 +15,11 @@ export default function Layout() {
     <div className="flex min-h-screen" style={{ background: 'var(--bg)' }}>
       <Sidebar />
       <div
-        className="flex-1 flex flex-col transition-all duration-300"
-        style={{ marginLeft: sidebarOpen ? '240px' : '64px' }}
-      >
+  className={`flex-1 flex flex-col transition-all duration-300
+    ml-0
+    ${sidebarOpen ? "lg:ml-60" : "lg:ml-16"}
+  `}
+>
         <Topbar />
         <main className="flex-1 overflow-auto" style={{ background: 'var(--bg)' }}>
           <Outlet />

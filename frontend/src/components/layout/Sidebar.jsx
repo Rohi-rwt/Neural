@@ -58,11 +58,20 @@ export default function Sidebar() {
     : 100;
 
   return (
-    <motion.aside
-      animate={{ width: sidebarOpen ? 240 : 64 }}
-      transition={{ duration: 0.25, ease: 'easeInOut' }}
-      className="sidebar fixed left-0 top-0 h-screen flex flex-col z-50 overflow-hidden"
-    >
+   <motion.aside
+animate={{
+  width: window.innerWidth >= 1024
+    ? (sidebarOpen ? 240 : 64)
+    : 240
+}}
+className={`
+sidebar fixed left-0 top-0 h-screen z-50
+flex flex-col overflow-hidden
+transition-transform duration-300
+${sidebarOpen ? "translate-x-0" : "-translate-x-full"}
+lg:translate-x-0
+`}
+>
       {/* Logo */}
       <div className="p-4 flex items-center justify-between min-h-[64px]" style={{ borderBottom: '1px solid var(--border)' }}>
         <AnimatePresence>
